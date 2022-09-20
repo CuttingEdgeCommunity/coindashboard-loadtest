@@ -270,12 +270,12 @@
           </elementProp>
           <elementProp name="req_per_min" elementType="Argument">
             <stringProp name="Argument.name">req_per_min</stringProp>
-            <stringProp name="Argument.value">6000</stringProp>
+            <stringProp name="Argument.value">1000</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="vusers" elementType="Argument">
             <stringProp name="Argument.name">vusers</stringProp>
-            <stringProp name="Argument.value">60</stringProp>
+            <stringProp name="Argument.value">20</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="rampup" elementType="Argument">
